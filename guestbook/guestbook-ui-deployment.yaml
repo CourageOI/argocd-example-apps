@@ -17,4 +17,4 @@ spec:
       - image: docker.io/courageoi/nodeapp:1.0
         name: guestbook-ui
         ports:
-        - containerPort: 80
+        - containerPort: 3001
